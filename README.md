@@ -2,4 +2,4 @@
 
 My custom clockfaces built using the [FitBit Developer Tools](https://dev.fitbit.com/).
 
-These designs are built and customized for the FitBit Versa smartwatch and were created in VS Code with the FitBit CLI.
+These designs are built and customized for the FitBit Versa smartwatch and were created in VS Code with the [FitBit CLI](https://dev.fitbit.com/build/guides/command-line-interface/).
